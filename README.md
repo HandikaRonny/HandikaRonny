@@ -1,4 +1,4 @@
-### Hi! 👋 I'm Handika Harahap.
+### Hi! 👋 I'm Handika Sukri Husni Harahap.
 
 I'm a Computer Science student at Institut Teknologi Del who loves to create and share projects about web and mobile technology! I've enjoyed HTML and make it the main language in creating a project.
 
